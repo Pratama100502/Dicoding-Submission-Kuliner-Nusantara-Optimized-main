@@ -73,7 +73,7 @@ const createRestaurantItemTemplate = (restaurant) => `
           <p class="list-item-rating" tabindex="0">
               Rating : <span class="list-item-rating-value">${restaurant.rating}</span>
           </p>
-          <h1 class="list-item-title"><a href="${window.location.pathname}#/detail/${restaurant.id}">${restaurant.name}</a></h1>
+          <h1 class="list-item-title"><a href="window.history.pushState({}, '', `/detail/${restaurant.id}`);">${restaurant.name}</a></h1>
           <div class="list-item-desc" tabindex="0">${restaurant.description}...</div>
       </div>
   </div>
