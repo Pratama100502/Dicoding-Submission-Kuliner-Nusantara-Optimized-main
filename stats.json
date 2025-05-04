@@ -1,8 +1,8 @@
 {
-  "hash": "85df58120ff37a40b23b",
+  "hash": "f0a367c71352e6c19d82",
   "version": "5.86.0",
-  "time": 9334,
-  "builtAt": 1746332352118,
+  "time": 14381,
+  "builtAt": 1746344375907,
   "publicPath": "/Dicoding-Submission-Kuliner-Nusantara-Optimized-main/",
   "outputPath": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\dist",
   "assetsByChunkName": {
@@ -100,7 +100,7 @@
     {
       "type": "asset",
       "name": "main~309f7e27.bundle.js",
-      "size": 20188,
+      "size": 20224,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -111,7 +111,7 @@
           "license": "main~309f7e27.bundle.js.LICENSE.txt",
           "sourceMap": "main~309f7e27.bundle.js.map"
         },
-        "size": 20188
+        "size": 20224
       },
       "chunkNames": [
         "main~309f7e27"
@@ -124,13 +124,13 @@
         {
           "type": "sourceMap",
           "name": "main~309f7e27.bundle.js.map",
-          "size": 26651,
+          "size": 26741,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 26651
+            "size": 26741
           },
           "chunkNames": [],
           "chunkIdHints": [],
@@ -3246,9 +3246,9 @@
       "initial": true,
       "entry": false,
       "recorded": false,
-      "size": 34593,
+      "size": 34630,
       "sizes": {
-        "javascript": 34593
+        "javascript": 34630
       },
       "names": [
         "main~309f7e27"
@@ -3263,7 +3263,7 @@
       "auxiliaryFiles": [
         "main~309f7e27.bundle.js.map"
       ],
-      "hash": "88ce7e8d132a8283319c",
+      "hash": "a814d13744352ec34ba3",
       "childrenByOrder": {},
       "id": 760,
       "siblings": [
@@ -3483,9 +3483,9 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 5018,
+          "size": 5055,
           "sizes": {
-            "javascript": 5018
+            "javascript": 5055
           },
           "built": true,
           "codeGenerated": true,
@@ -3502,8 +3502,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\views\\pages\\home.js",
-          "issuerName": "./src/scripts/views/pages/home.js",
+          "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\views\\pages\\favorite.js",
+          "issuerName": "./src/scripts/views/pages/favorite.js",
           "issuerPath": [
             {
               "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\index.js",
@@ -3521,16 +3521,16 @@
               "id": 801
             },
             {
-              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\views\\pages\\home.js",
-              "name": "./src/scripts/views/pages/home.js",
-              "id": 886
+              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js",
+              "id": 748
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 394,
-          "issuerId": 886,
+          "issuerId": 748,
           "chunks": [
             760
           ],
@@ -4478,8 +4478,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+          "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
           "issuerPath": [
             {
               "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\index.js",
@@ -4487,21 +4487,21 @@
               "id": 931
             },
             {
-              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-              "name": "./src/styles/main.css",
-              "id": 46
+              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+              "name": "./src/styles/responsive.css",
+              "id": 362
             },
             {
-              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-              "id": 756
+              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+              "id": 948
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 645,
-          "issuerId": 756,
+          "issuerId": 948,
           "chunks": [
             946
           ],
@@ -4610,8 +4610,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+          "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
           "issuerPath": [
             {
               "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\index.js",
@@ -4619,21 +4619,21 @@
               "id": 931
             },
             {
-              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-              "name": "./src/styles/main.css",
-              "id": 46
+              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+              "name": "./src/styles/responsive.css",
+              "id": 362
             },
             {
-              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-              "id": 756
+              "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+              "id": 948
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 537,
-          "issuerId": 756,
+          "issuerId": 948,
           "chunks": [
             946
           ],
@@ -7413,8 +7413,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+      "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
       "issuerPath": [
         {
           "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\index.js",
@@ -7422,21 +7422,21 @@
           "id": 931
         },
         {
-          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-          "name": "./src/styles/main.css",
-          "id": 46
+          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+          "name": "./src/styles/responsive.css",
+          "id": 362
         },
         {
-          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-          "id": 756
+          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+          "id": 948
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 537,
-      "issuerId": 756,
+      "issuerId": 948,
       "chunks": [
         946
       ],
@@ -7544,8 +7544,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
+      "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
       "issuerPath": [
         {
           "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\index.js",
@@ -7553,21 +7553,21 @@
           "id": 931
         },
         {
-          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-          "name": "./src/styles/main.css",
-          "id": 46
+          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+          "name": "./src/styles/responsive.css",
+          "id": 362
         },
         {
-          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\main.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/main.css",
-          "id": 756
+          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\styles\\responsive.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
+          "id": 948
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 645,
-      "issuerId": 756,
+      "issuerId": 948,
       "chunks": [
         946
       ],
@@ -8511,9 +8511,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 5018,
+      "size": 5055,
       "sizes": {
-        "javascript": 5018
+        "javascript": 5055
       },
       "built": true,
       "codeGenerated": true,
@@ -8529,8 +8529,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\views\\pages\\home.js",
-      "issuerName": "./src/scripts/views/pages/home.js",
+      "issuer": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\views\\pages\\favorite.js",
+      "issuerName": "./src/scripts/views/pages/favorite.js",
       "issuerPath": [
         {
           "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\index.js",
@@ -8548,16 +8548,16 @@
           "id": 801
         },
         {
-          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\views\\pages\\home.js",
-          "name": "./src/scripts/views/pages/home.js",
-          "id": 886
+          "identifier": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[1].use!C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\src\\scripts\\views\\pages\\favorite.js",
+          "name": "./src/scripts/views/pages/favorite.js",
+          "id": 748
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 394,
-      "issuerId": 886,
+      "issuerId": 748,
       "chunks": [
         760
       ],
@@ -9851,7 +9851,7 @@
         },
         {
           "name": "main~309f7e27.bundle.js",
-          "size": 20188
+          "size": 20224
         },
         {
           "name": "main~d1658f4b.bundle.js",
@@ -9859,7 +9859,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 135207,
+      "assetsSize": 135243,
       "auxiliaryAssets": [
         {
           "name": "2.bundle.js.map",
@@ -9871,7 +9871,7 @@
         },
         {
           "name": "main~309f7e27.bundle.js.map",
-          "size": 26651
+          "size": 26741
         },
         {
           "name": "main~a51fa3f5.bundle.js.map",
@@ -9891,7 +9891,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 276247,
+      "auxiliaryAssetsSize": 276337,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -9932,7 +9932,7 @@
         },
         {
           "name": "main~309f7e27.bundle.js",
-          "size": 20188
+          "size": 20224
         },
         {
           "name": "main~d1658f4b.bundle.js",
@@ -9940,7 +9940,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 135207,
+      "assetsSize": 135243,
       "auxiliaryAssets": [
         {
           "name": "2.bundle.js.map",
@@ -9952,7 +9952,7 @@
         },
         {
           "name": "main~309f7e27.bundle.js.map",
-          "size": 26651
+          "size": 26741
         },
         {
           "name": "main~a51fa3f5.bundle.js.map",
@@ -9972,7 +9972,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 276247,
+      "auxiliaryAssetsSize": 276337,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -9987,8 +9987,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "8d6fe9dfe1c6f1801c18",
       "version": "5.86.0",
-      "time": 187,
-      "builtAt": 1746332343028,
+      "time": 330,
+      "builtAt": 1746344361976,
       "publicPath": "",
       "outputPath": "C:\\Users\\ALDI\\Dicoding-Submission-Kuliner-Nusantara-Optimized-main\\dist",
       "assetsByChunkName": {},
